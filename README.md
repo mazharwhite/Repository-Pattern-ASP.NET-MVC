@@ -1,4 +1,4 @@
-# RepositoryPatternDatabaseFirstTemplate
+# Repository Pattern Database First (Template)
 A template to use for Repository Pattern Database First <br/>
 
 ## Architecture Division
